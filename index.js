@@ -6,3 +6,4 @@ function superbowlWin(array) {
         return undefined;
     }
 }
+
